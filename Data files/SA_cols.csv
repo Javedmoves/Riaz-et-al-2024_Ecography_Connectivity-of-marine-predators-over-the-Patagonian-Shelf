@@ -1,0 +1,91 @@
+Country,Location,lat,lon,Type,Species
+Uruguay,Islote de Lobos,-35.016667,-54.866667,breeding,SAFS
+Uruguay,Cabo Polonio,-34.35,-53.733333,breeding,SAFS
+Argentina,Mar del Plata,-38.1,-57.54972222,haul-out,SAFS
+Argentina,Islote Lobos,-41.4,-65.05,haul-out,SAFS
+Argentina,Isla Escondida,-43.72166667,-65.28333333,breeding,SAFS
+Argentina,Cabo Dos Bahías,-44.92972222,-65.51916667,haul-out,SAFS
+Argentina,Isla Arce,-45.00416667,-65.48333333,haul-out,SAFS
+Argentina,Isla Rasa,-45.10833333,-65.39166667,breeding,SAFS
+Argentina,Cabo Blanco,-47.21666667,-65.73333333,haul-out,SAFS
+Argentina,Islote del Cabo,-48.2525,-66.22222222,haul-out,SAFS
+Argentina,Islote Les Eclaireurs Oeste,-54.87138889,-68.10361111,haul-out,SAFS
+Argentina,Islote Blanco,-55.06111111,-66.54694444,haul-out,SAFS
+Argentina,Islets south of Cabo Hall,-54.97694444,-65.69472222,haul-out,SAFS
+Argentina,Islote Veleros,-54.92444444,-65.32416667,haul-out,SAFS
+Argentina,Is. Barrionuevo (Is. Dampier),-54.85138889,-64.16138889,breeding,SAFS
+Argentina,Punta Achával,-54.83777778,-64.18277778,breeding,SAFS
+Argentina,Punta Jira,-54.75694444,-63.81416667,breeding,SAFS
+Argentina,Punta Leguizamo,-54.72583333,-63.79638889,breeding,SAFS
+Argentina,Caleta Ojeda,-54.72361111,-63.80722222,haul-out,SAFS
+Argentina,Cabo Furneaux,-54.71888889,-63.89222222,haul-out,SAFS
+Argentina,Pta. Dorgambide and Pta. Shank,-54.72777778,-63.93972222,haul-out,SAFS
+Argentina,Bahía San Antonio,-40.783,-64.783,breeding,MAG
+Argentina, Islote La Pastosa,-41.417,-65.033,breeding,MAG
+Argentina, Islote Redondo,-41.433,-65.017,breeding,MAG
+Argentina, Islote Pájaros,-41.45,-65.033,breeding,MAG
+Argentina,Punta Pozos,-41.567,-65.017,breeding,MAG
+Argentina,Islote Notable (IN),-42.417,-64.517,breeding,MAG
+Argentina,Ea. San Lorenzo (SL),-42.083,-63.85,breeding,MAG
+Argentina, Asentamiento Oeste (AO),-42.1,-63.933,breeding,MAG
+Argentina,Caleta Externa (CV),-42.267,-63.633,breeding,MAG
+Argentina,Isla Primera (CP),-42.35,-63.617,breeding,MAG
+Argentina, Isla Segunda (CS),-42.333,-63.65,breeding,MAG
+Argentina,Caleta Interna (CI),-42.45,-63.65,breeding,MAG
+Argentina,El Pedral (PD),-42.95,-64.383,breeding,MAG
+Argentina,Punta Clara (PC),-43.967,-65.25,breeding,MAG
+Argentina,Punta Tombo (PT),-44.033,-65.183,breeding,MAG
+Argentina, Punta Lobería (PL),-44.583,-65.367,breeding,MAG
+Argentina, Isla Cumbre (IC),-44.583,-65.367,breeding,MAG
+Argentina, Isla Blanca Mayor (IB),-44.767,-65.633,breeding,MAG
+Argentina, Cabo Dos Bahías (DB),-44.95,-65.533,breeding,MAG
+Argentina, Isla Moreno (IM),-44.9,-65.533,breeding,MAG
+Argentina,Isla Arce (AR),-45,-65.483,breeding,MAG
+Argentina, Isla Leones (LE),-45.05,-65.6,breeding,MAG
+Argentina, Península Lanaud (LA),-45.05,-65.583,breeding,MAG
+Argentina, Isla Buque (BU),-45.05,-65.617,breeding,MAG
+Argentina, Isla Sudoeste (SO),-45.05,-65.6,breeding,MAG
+Argentina, Isla Tova (TV),-45.1,-66,breeding,MAG
+Argentina, Isla Tovita (TT),-45.117,-65.95,breeding,MAG
+Argentina, Isla Gaviota (GA),-45.1,-65.967,breeding,MAG
+Argentina, Isla Este (ES),-45.117,-65.933,breeding,MAG
+Argentina, Isla Vernaci Norte 1 (N1),-45.183,-66.5,breeding,MAG
+Argentina, Isla Vernaci Norte 2 (N2),-45.183,-66.5,breeding,MAG
+Argentina, Isla Vernaci Este (VE),-45.183,-66.483,breeding,MAG
+Argentina, Isla Sudoeste (VS),-45.183,-66.517,breeding,MAG
+Argentina, Isla Noroeste (VN),-45.167,-66.517,breeding,MAG
+Argentina, Isla Fondo 1 (F1),-45.167,-66.517,breeding,MAG
+Argentina, Isla Fondo 2 (F2),-45.167,-66.517,breeding,MAG
+Argentina,Isla Viana Mayor (VM),-45.183,-66.4,breeding,MAG
+Argentina,Isla Viana Mayor (VM),-45.183,-66.4,breeding,MAG
+Argentina,Cabo San Juan,-54.722,-63.811222,breeding,MAG
+Argentina,Martillo,-54.908333,-67.383333,breeding,MAG
+Argentina,Cabo Virgenes,-52.35,-68.383333,breeding,MAG
+Argentina,Isla Deseada,-51.566667,-69.033333,breeding,MAG
+Argentina,Banco Cormorán,-49.2667,-67.6667,breeding,MAG
+Argentina,Banco Justicia,-49.2833, -67.6833,breeding,MAG
+Argentina,Isla Leones,-50.0667,-68.4333,breeding,MAG
+Argentina,Punta Entrada,-50.1333,-68.3667,breeding,MAG
+Argentina,Monte León,-50.3667,-68.8833,breeding,MAG
+Argentina,Punta Pájaros,-46.95,-66.85,breeding,MAG
+Argentina,Isla Chaffers,-47.7667,-65.8667,breeding,MAG
+Argentina,Isla Pájaros,-47.75,-65.9667,breeding,MAG
+Argentina,Isla Quiroga,-47.75,-65.9333,breeding,MAG
+Argentina,Isla Larga,-47.75,-65.9333,breeding,MAG
+Argentina,Isla Quinta,-47.75,-65.9333,breeding,MAG
+Argentina,Islote del Cañadón del Puerto,-47.75,-66,breeding,MAG
+Argentina,Isla del Rey,-47.7667,-66.05,breeding,MAG
+Argentina,Isla Elena,-47.75,-65.9333,breeding,MAG
+Argentina,Islote Burlotti,-47.7667,-65.95,breeding,MAG
+Argentina,Isla Pingüino,-47.9,-65.7167,breeding,MAG
+Argentina,Isla Chata,-47.9333,-65.7333,breeding,MAG
+Argentina,Isla Schwarz,-48.0667,-65.9,breeding,MAG
+Argentina,Islote Burgos,-48.0833,-65.9,breeding,MAG
+Argentina,Isla Liebres,-48.1,-65.9,breeding,MAG
+Argentina,Punta Medanosa,-48.1,-65.9167,breeding,MAG
+Argentina,Punta Sur,-48.1167,-65.9333,breeding,MAG
+Argentina,Estancia 8 de Julio,-48.1167,-66.1333,breeding,MAG
+Argentina,Isla Rasa Chica,-48.3667,-66.3333,breeding,MAG
+Argentina,Islote del Bajío,-48.35,-66.35,breeding,MAG
+Argentina,Islote sin Nombre,-48.3667,-66.35,breeding,MAG
+Argentina,Cabo Guardián,-48.35,-66.35,breeding,MAG
